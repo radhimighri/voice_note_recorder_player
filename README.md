@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="doc/images/tunisia_flag.png" width="140" alt="Tunisian Flag" />
+  <img src="doc/images/tunisia_flag.png" width="200" alt="Tunisian Flag" />
 </p>
 
 # Voice Note Recorder & Player
@@ -162,10 +162,10 @@ This package relies on the following powerful packages:
 ## 🧑‍💻 About the Developer
 
 <p align="center">
-  <img src="doc/images/tunisia_flag.png" width="80" alt="Tunisia" />
+  <img src="doc/images/tunisia_flag.png" width="140" alt="Tunisia" />
 </p>
 
-Hello! 👋 I'm **Radhi MIGHRI**, a passionate Software Engineer specializing in mobile application development with Flutter. I am dedicated to building high-quality, user-friendly, and scalable applications.
+Hello! 👋 I'm **Radhi MIGHRI**, a passionate Software Engineer specializing in mobile application development with Flutter and native iOS. I am dedicated to building high-quality, user-friendly, and scalable applications.
 
 I created this package to help developers easily integrate voice recording and playback features into their Flutter apps with a modern and customizable UI.
 
