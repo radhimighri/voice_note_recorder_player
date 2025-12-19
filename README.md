@@ -13,6 +13,28 @@
 
 A comprehensive and modern Flutter package for **recording** and **playing** voice notes. It provides a beautiful, customizable UI out of the box, making it easy to integrate voice messaging features into your app.
 
+## 📦 Published on pub.dev
+
+<p align="center">
+  <a href="https://pub.dev/packages/voice_note_recorder_player">
+    <img src="https://img.shields.io/pub/v/voice_note_recorder_player?label=pub.dev&logo=dart&color=0175C2" alt="pub.dev version" />
+  </a>
+  <a href="https://pub.dev/packages/voice_note_recorder_player">
+    <img src="https://img.shields.io/pub/popularity/voice_note_recorder_player?logo=dart" alt="Popularity" />
+  </a>
+  <a href="https://pub.dev/packages/voice_note_recorder_player">
+    <img src="https://img.shields.io/pub/likes/voice_note_recorder_player?logo=dart" alt="Likes" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>📥 Install from pub.dev:</strong><br>
+  <code>flutter pub add voice_note_recorder_player</code><br>
+  <a href="https://pub.dev/packages/voice_note_recorder_player">👉 View on pub.dev</a>
+</p>
+
+---
+
 ## 📖 Table of Contents
 - [Features](#-features)
 - [Screenshots](#-screenshots)
@@ -46,6 +68,10 @@ A comprehensive and modern Flutter package for **recording** and **playing** voi
 
 ## 📦 Installation
 
+This package is **published on [pub.dev](https://pub.dev/packages/voice_note_recorder_player)** - the official Dart and Flutter package repository.
+
+### Quick Install
+
 Add this to your package's `pubspec.yaml` file:
 
 ```yaml
@@ -53,14 +79,25 @@ dependencies:
   voice_note_recorder_player: ^0.0.1
 ```
 
+Then run:
+```bash
+flutter pub get
+```
+
+### Alternative: Install via Command Line
+
+```bash
+flutter pub add voice_note_recorder_player
+```
+
+### Local Development
+
 *(If you are developing locally, point to your local path)*:
 ```yaml
 dependencies:
   voice_note_recorder_player:
     path: packages/voice_note_recorder_player
 ```
-
-Run `flutter pub get` to install.
 
 ### Android Setup
 Add the following permissions to your `AndroidManifest.xml`:
