@@ -1,7 +1,8 @@
 name: voice_note_recorder_player
-description: "A new Flutter package project."
+description: "A comprehensive and modern Flutter package for recording and playing voice notes with a beautiful, customizable UI."
 version: 0.0.1
-homepage:
+homepage: https://github.com/radhiMIGHRI/voice_note_recorder_player
+repository: https://github.com/radhiMIGHRI/voice_note_recorder_player
 
 environment:
   sdk: ^3.10.0
